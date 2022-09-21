@@ -10,20 +10,7 @@
 
 }
 
-body {
-  background-color: #F6F2D4;
-  font-family: "Helvetica Neue", Helvetica, Arial;
-}
-
-hr {
-  border-style: none none dotted;
-  color: #95D1CC;
-  border-width: 8px;
-  width: 10%;
-}
-h1{
-  color: #5584AC;
-}
-h3{
-  color: #5584AC;
+.profile-image {
+width: 150px;
+height: 150px;
 }
